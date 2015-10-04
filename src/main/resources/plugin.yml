@@ -1,0 +1,8 @@
+name: BardingCraft
+version: 0.1
+main: net.amigocraft.bardingcraft.BardingCraft
+author: Maxim Roncace
+permissions:
+  bardingcraft.craft:
+    description: Allows use of BardingCraft.
+    default: true
